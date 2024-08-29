@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres
+    container_name: post-gres-container
+    environment:
+      POSTGRES_USER: coursedb_t4iw_user
+      POSTGRES_PASSWORD: spgZs8sPa9OGZPyxaMYx4vj57fZhtpCw
+      POSTGRES_DB: coursedb_t4iw
+    ports:
+      - "5432:5432"
+    networks:
+      - backend-network
+
+  backend:
+    image: sahilbhalekar/courses-api-backend:latest
+    container_name: back-end-container
+    ports:
+      - "9090:9090"  # Updated port to match the backend Dockerfile
+    depends_on:
+      - postgres
+    networks:
+      - backend-network
+      
+  frontend:
+    image: sahilbhalekar/courses-api-frontend:latest  # Use the correct image for the frontend
+    container_name: courses-api-react-app
+    ports:
+      - "3001:3000"
+    environment:
+      - REACT_APP_API_URL=http://backend:9090  # Update backend URL to match the backend service port
+    depends_on:
+      - backend
+    networks:
+      - backend-network
+
+networks:
+  backend-network:
+    driver: bridge
