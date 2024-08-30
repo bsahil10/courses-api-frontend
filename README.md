@@ -1,7 +1,7 @@
 
 # Courses Frontend - Course API ASSIGNMENT
 
-![Project Image] (https://drive.google.com/file/d/1BinSi2PhBHexixJv0d_a6P8aWoXrwvD3/view?usp=sharing)
+![Project Image] (<img width="1424" alt="1" src="https://github.com/user-attachments/assets/6de2c660-1190-4726-9304-7eb967b89e7c">)
 
 
 ## Features
