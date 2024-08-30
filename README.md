@@ -23,7 +23,7 @@ To run this project on your local machine using Docker, follow the steps below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/tanmay-S12/Frontend-Courses.git
+   git clone https://github.com/sahilbhalekar/Frontend-Courses.git
 
 2. **Run the Docker image**
 
@@ -31,8 +31,7 @@ To run this project on your local machine using Docker, follow the steps below:
    docker-compose up
 
 3. **Access the application :**
-   ```bash
-   localhost:5173
+  - **Frontend Access**: Since the frontend service is set to run on port `3001`, use `http://localhost:3001` to access the              application.
    
 ##  Reference Images :
 **Image 1**
