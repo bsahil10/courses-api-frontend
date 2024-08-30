@@ -1,7 +1,7 @@
 
 # Courses Frontend - Course API ASSIGNMENT
 
-![Project Image] 
+                                          ![Project Image] 
 
 <img width="1424" alt="1" src="https://github.com/user-attachments/assets/6de2c660-1190-4726-9304-7eb967b89e7c">
 
@@ -37,18 +37,27 @@ To run this project on your local machine using Docker, follow the steps below:
    
 ##  Reference Images :
 **Image 1**
-![Project Image](https://drive.google.com/file/d/1Re4L5PSrZ9I4Xgbkv9Ezz4LB1EX8cJQQ/view?usp=sharing)
+
+                                       ![Project Image]
+
+
+<img width="1440" alt="2" src="https://github.com/user-attachments/assets/475629de-6e71-4283-9b07-e150875cd0b8">
+
 
 **Image 2**
+
 ![Project Image1](https://drive.google.com/file/d/1dD5aTX3XDXiwQwNCq9Y952fB6emtb2Pf/view?usp=sharing)
 
 **Image 3**
+
 ![Project Image](https://drive.google.com/file/d/1OuuNidJamvStZVHQJJ7faPycEHWUPdz7/view?usp=sharing)
 
 **Image 4**
+
 ![Project Image](https://drive.google.com/file/d/1_QJ2hDqEIZ0UH6xV85xQU6II5qgEvMKC/view?usp=sharing)
 
 **Image 5**
+
 ![Project Image](https://drive.google.com/file/d/1wDPUe1YFfwNDKmIwS4wZjRDeon4IpWXG/view?usp=sharing)
 
 
