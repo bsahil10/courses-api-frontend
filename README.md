@@ -1,7 +1,9 @@
 
 # Courses Frontend - Course API ASSIGNMENT
 
-![Project Image] <img width="1424" alt="1" src="https://github.com/user-attachments/assets/6de2c660-1190-4726-9304-7eb967b89e7c">
+![Project Image] 
+
+<img width="1424" alt="1" src="https://github.com/user-attachments/assets/6de2c660-1190-4726-9304-7eb967b89e7c">
 
 
 ## Features
